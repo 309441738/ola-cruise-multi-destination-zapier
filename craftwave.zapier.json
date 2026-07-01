@@ -1,0 +1,10 @@
+{
+  "title": "Multi-Destination Cruise Options",
+  "description": "Explore various cruise options that visit multiple exciting destinations. Ideal for travelers looking to maximize their experience with diverse itineraries.",
+  "version": "1.0.0",
+  "platformVersion": "15.0.0",
+  "published_with": "craftwave",
+  "authentication": {
+    "type": "oauth2"
+  }
+}
