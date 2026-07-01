@@ -1,0 +1,12 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "io.github.309441738/ola-cruise-multi-destination",
+  "description": "Explore various cruise options that visit multiple exciting destinations. Ideal for travelers looking to maximize their experience with diverse itineraries.",
+  "version": "0.1.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://cruise-mcp.olavacations.com/api/gw/mcp/37b86496-5e46-4d0b-9988-3e576b5759e9"
+    }
+  ]
+}
